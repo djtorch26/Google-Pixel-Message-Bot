@@ -2,10 +2,10 @@
 This is a google messaging bot for people with Google messenger (pixel phones) with the "messages for web" capability
 
 # Requirements:
-  Pixel Phone
-  Google messenger - Web messaging capability
-  pyautogui - (python module, 'pip install pyautogui')
-  selenium - (python module, 'pip install selenium', make sure to download firefox driver, 'geckodriver' and add it to your system Path.)
+  * Pixel Phone
+  * Google messenger - Web messaging capability
+  * pyautogui - (python module, 'pip install pyautogui')
+  * selenium - (python module, 'pip install selenium', make sure to download firefox driver, 'geckodriver' and add it to your system Path.)
   OR IT WILL NOT WORK
   
 # Quick Start Guide
