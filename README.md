@@ -13,6 +13,6 @@ You want to prank your friends over a text conversation?
 
 Edit line 26 in SendText.py to your situation and it should work fine.
 
-# You must login using the QR code in the messenger app each time you run this code
+___Strong emphasized text___ You must login using the QR code in the messenger app each time you run this code
 
 For instance if you want to get it running "out of the box", open SendText.py, and change the 'Chatname' variable string value on line 26, to one of your group chats or individual chats that you would like to spam. 
