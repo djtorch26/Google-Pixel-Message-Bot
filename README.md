@@ -11,7 +11,7 @@ This is a google messaging bot for people with Google messenger (pixel phones) w
 # Quick Start Guide
 You want to prank your friends over a text conversation?
 
-Edit line 26 in SendText.py to your situation and it should work fine.
+Edit line 25 in SendText.py to your situation and it should work fine.
 
 __You must login using the QR code in the messenger app each time you run this code__
 
